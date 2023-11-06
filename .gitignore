@@ -1,0 +1,8 @@
+.venv
+.idea
+**/__pycache__
+.pytest_cache
+build
+cat_cmd.egg-info
+dist
+doc/build
